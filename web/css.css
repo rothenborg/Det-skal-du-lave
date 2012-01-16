@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+*{
+  			margin:0 auto; 
+  		}
+
+html {
+    		 overflow: -moz-scrollbars-vertical;
+    		 overflow: auto;
+    		 background-color:#000;
+
+		}
+		
+
+h1{ 
+			font-size:45px;		
+			line-height:50px;
+			font-family: 'Fjord One', serif;
+			color:#fff;
+			text-align:center;
+			font-weight:400;
+			!important;
+	}
+	
+h2{ 
+			font-size:15px;		
+			line-height:20px;
+			font-family: 'Fjord One', serif;
+			color:#fff;
+			text-align:center;
+			font-weight:400;
+			!important;
+	}
+	
+
+
+#container{
+			width: 1000px;
+			height: 100%;
+			margin-top:20px;
+			background-color:#000;
+
+}
+
+#forslag{
+			width: 800px;
+			height: 125px;
+			background-color:#000;
+
+}
+
+#logo{
+			width: 500px;
+			height: 70px;
+			margin-top:50px;
+			background-color:#000;
+
+}
+
+
+#info{
+			width: 500px;
+			height: 200px;
+			margin-top:150px;
+			background-color:#000;
+		
+}
+
+#fb{
+			width: 75px;
+			padding-left:7px;
+			height: 50px;
+			margin-top:20px;
+}
+
+
+
+#ad{
+			width:728px;
+			height:90px;
+			background-color:#000;
+		
+}
+
+
+	
+
+		
