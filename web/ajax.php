@@ -3,7 +3,7 @@
   <head>
   </head>
   <body>
-    <?
+    <?php
                $random_text = array("Lav pandekager",
                                    "Tag i Zoologisk Have – dyrene savner dig",
                                    "Tag et karbad. Nøgenhed kan anbefales i denne forbindelse",
